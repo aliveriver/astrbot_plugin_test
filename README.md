@@ -1,9 +1,9 @@
-# helloworld
+# astrbot_plugin_fetch_weather
 
-AstrBot 插件模板
+一个简单的爬取 www.tianqi.com 来获取天气的插件
 
-A template plugin for AstrBot plugin feature
+# 如何使用
 
-# 支持
+发送指令/天气 城市名称 即可触发插件功能
 
-[帮助文档](https://astrbot.app)
+# 如有bug请提交issue
